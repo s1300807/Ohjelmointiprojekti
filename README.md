@@ -1,2 +1,5 @@
 # Ohjelmointiprojekti
-Nikon ohjelmointiprojekti
+
+Aihe: Veneveistämö
+
+Toteutus: Wordpress
